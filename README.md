@@ -16,3 +16,4 @@ usage: create_wp domain [email]
 
 * **Predrag Damnjanović** - [dpeca](https://github.com/dpeca)
 * **Luka Paunović** - [lukapaunovic](https://github.com/lukapaunovic)
+* **Niamul** - [jahid75](https://github.com/jahid75)
